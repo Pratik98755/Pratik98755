@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Pratik98755
-- I'm pursuing B.Tech in Electronics & Communications
-- Engineering in JGEC
+- I'm pursuing B.Tech in Electronics & Communications Engineering in JGEC
 - 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
