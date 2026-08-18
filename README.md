@@ -11,7 +11,7 @@
 - Python & it's integration with AI for machine learning and creating AI models.
 - 
 - 💞️ I’m looking to collaborate on ...
-- >>>>>>>>>>>>>>>>>>    I will be very glad if I could be of any help in your projects related to listed above.
+- >>>>>>>>>>>>>>>>>>    I will be very glad to contribute in your projects related to listed above.
 -              
 - 📫 How to reach me ...
 - >>>>>>>>>>>>>>>>>>    Can mail me @  kumarpratik98755@gmail.com
