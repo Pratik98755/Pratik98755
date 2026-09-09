@@ -2,6 +2,7 @@
 - I'm pursuing B.Tech in Electronics & Communications Engineering @ Jalpaiguri Government Engineering College (JGEC)
 - 
 - 👀 I’m interested in ...
+- App Development: Creating Music App using React Native.
 - Cybersecurity : Creating and using scripts with python.
 - >>>>>>>>>>>>> : Merging AI with python to use machine learning in our projects.
 - Web Development : using Javascript, Node JS, React , Vite , Next etc to make elegant websites.
